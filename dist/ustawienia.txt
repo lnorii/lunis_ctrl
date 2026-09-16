@@ -1,8 +1,4 @@
-# Ustawienia aplikacji (zmieniaj wartosci tylko po znaku =)
-# Kolory po angielsku np. white, black, red, blue, green, yellow
-szerokosc_okna=170
-wysokosc_okna=142
-kolor_tekstu=black
-rozmiar_czcionki=20
-pozycja_tekstu_x=86
-pozycja_tekstu_y=101
+# Podaj współrzędne środka dla licznika i odstęp w pikselach
+srodek_licznika_x=86
+srodek_licznika_y=71
+odstep_miedzy_cyframi=2
