@@ -1,1 +1,1 @@
-apke maasz w dist dodaj cyferki w png jako"0.png" tło tak samo
+apke maasz w dist dodaj cyferki dodaj jako"0.png" tło tak samo
